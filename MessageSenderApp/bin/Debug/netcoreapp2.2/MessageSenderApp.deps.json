@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "957cec4a9add760b7738a1d130cb828f7da88246"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "MessageSenderApp/1.0.0": {
+        "dependencies": {
+          "AWSSDK.SQS": "3.3.100.1",
+          "Newtonsoft.Json": "12.0.1"
+        },
+        "runtime": {
+          "MessageSenderApp.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.100.1": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.100.1"
+          }
+        }
+      },
+      "AWSSDK.SQS/3.3.100.1": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.100.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.SQS.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.100.1"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.1.22727"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MessageSenderApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.100.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U/QQgjh19D/AeD4Y6FW1zgmD2KTb3Q7vYZ2jWqIBt/5GHiOe+3ryDfr8SbOw6YiQFwFMY0n1pwMWSEU4+J2njw==",
+      "path": "awssdk.core/3.3.100.1",
+      "hashPath": "awssdk.core.3.3.100.1.nupkg.sha512"
+    },
+    "AWSSDK.SQS/3.3.100.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-b3raaeqaWl/TmAT2aQXAmrOJn+TFmvxi6vE0DaJTakfOtDnUgy9TWVWm+GP7vJQUI6v17jMpEZGtpv3F6jDjEg==",
+      "path": "awssdk.sqs/3.3.100.1",
+      "hashPath": "awssdk.sqs.3.3.100.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jmVyoEyk0In8r+AObYQyFKVFm7uSRzE0XSHSbEtBJcZDMV6DqJoyB4FLcHwprPVhAh826so0db3DIKXVnpGoPA==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    }
+  }
+}

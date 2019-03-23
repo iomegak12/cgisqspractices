@@ -1,0 +1,10 @@
+C:\DevOps\AWS\Demonstrations\SQSSolution\MessageReceiverApp\bin\Debug\netcoreapp2.2\MessageReceiverApp.deps.json
+C:\DevOps\AWS\Demonstrations\SQSSolution\MessageReceiverApp\bin\Debug\netcoreapp2.2\MessageReceiverApp.runtimeconfig.json
+C:\DevOps\AWS\Demonstrations\SQSSolution\MessageReceiverApp\bin\Debug\netcoreapp2.2\MessageReceiverApp.runtimeconfig.dev.json
+C:\DevOps\AWS\Demonstrations\SQSSolution\MessageReceiverApp\bin\Debug\netcoreapp2.2\MessageReceiverApp.dll
+C:\DevOps\AWS\Demonstrations\SQSSolution\MessageReceiverApp\obj\Debug\netcoreapp2.2\MessageReceiverApp.csproj.CoreCompileInputs.cache
+C:\DevOps\AWS\Demonstrations\SQSSolution\MessageReceiverApp\obj\Debug\netcoreapp2.2\MessageReceiverApp.AssemblyInfoInputs.cache
+C:\DevOps\AWS\Demonstrations\SQSSolution\MessageReceiverApp\obj\Debug\netcoreapp2.2\MessageReceiverApp.AssemblyInfo.cs
+C:\DevOps\AWS\Demonstrations\SQSSolution\MessageReceiverApp\bin\Debug\netcoreapp2.2\MessageReceiverApp.pdb
+C:\DevOps\AWS\Demonstrations\SQSSolution\MessageReceiverApp\obj\Debug\netcoreapp2.2\MessageReceiverApp.dll
+C:\DevOps\AWS\Demonstrations\SQSSolution\MessageReceiverApp\obj\Debug\netcoreapp2.2\MessageReceiverApp.pdb
